@@ -2,7 +2,7 @@
 
 ### QA | Test Automation 
 
-Tenho cerca de **3 anos de experiência em qualidade de software e automação de testes**, após uma trajetória em suporte técnico e desenvolvimento. Atuei com aplicações web, processos RPA e validação de APIs, usando principalmente **C#**, **Selenium** e **Playwright .NET**.
+Tenho cerca de **3 anos de experiência em qualidade de software e automação de testes**.Atuei com aplicações web, processos RPA e validação de APIs, usando principalmente **C#**, **Selenium** e **Playwright .NET**.
 
 Gosto de transformar regras de negócio em cenários claros e construir testes que ajudem o time a identificar problemas com confiança.
 
@@ -71,3 +71,10 @@ Projeto pessoal desenvolvido com **Angular e API .NET** para acompanhar atendime
 ## 📚 Atualmente estudando
 
 **Playwright com Java**, arquitetura de testes e CI/CD, ampliando minha experiência em automação e estabilidade dos testes.
+
+
+## 🤝 Contato
+
+Linkedin [Linkedin](https://www.linkedin.com/in/angelo-daniel-dantas-175246192).
+
+Explore meus [repositórios no GitHub](https://github.com/DantasNPR).
